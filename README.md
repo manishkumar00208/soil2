@@ -1,2 +1,2 @@
 # soil2
-Moddel - 2
+Model - 2
